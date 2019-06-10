@@ -1,5 +1,5 @@
 const Spotify = require('node-spotify-api');
-const spotifyApi = new Spotify({id: '9374a4dd0b204fa894f8c46b8793007f', secret: '34db379c5a8f42fc8be6a84c14b183a2'});
+const spotifyApi = new Spotify({id: '9374a4dd0b204fa894f8c46b8793007f', secret: 'SECRET'});
 
 module.exports = function(app) {
 
