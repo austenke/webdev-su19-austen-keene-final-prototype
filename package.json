@@ -1,0 +1,24 @@
+{
+  "name": "webdev-su19-austen-keene-final-prototype",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austenke/webdev-su19-austen-keene-final-prototype.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austenke/webdev-su19-austen-keene-final-prototype/issues"
+  },
+  "homepage": "https://github.com/austenke/webdev-su19-austen-keene-final-prototype#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-spotify-api": "^1.1.1"
+  }
+}
